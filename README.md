@@ -26,3 +26,9 @@ Cisco Images:
 ```
 https://haveibeenpwned.com/
 ```
+
+# APTs
+```
+https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit?gid=1864660085#gid=1864660085
+https://learn.microsoft.com/en-us/unified-secops/microsoft-threat-actor-naming?view=o365-worldwide&source=docs
+```
