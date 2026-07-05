@@ -32,3 +32,10 @@ https://haveibeenpwned.com/
 https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit?gid=1864660085#gid=1864660085
 https://learn.microsoft.com/en-us/unified-secops/microsoft-threat-actor-naming?view=o365-worldwide&source=docs
 ```
+
+#  About Cloud and Web Application security topics
+```
+https://www.splunk.com/en_us/blog/learn/cloud-security.html
+https://owasp.glueup.com/organization/6727/memberships
+https://krebsonsecurity.com/2019/08/what-we-can-learn-from-the-capital-one-hack/
+```
