@@ -1,6 +1,5 @@
-### CyberSecurity Defense Analyst Roadmap  
-##### Cisco Network Academy
-##### 2026
+### CyberSecurity Defense Analyst & SOC Program powered by Splunk  
+##### Cisco Network Academy -  2026
 
 
 
